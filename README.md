@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Walther-droid
+- 👋 Hi, I’m @Walther-jesus
 - 👀 I’m interested in data science and science :)
 - 🌱 I’m currently learning physics and data science
 - 💞️ I’m looking to collaborate on automation
